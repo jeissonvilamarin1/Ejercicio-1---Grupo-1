@@ -1,0 +1,25 @@
+body{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+     background: rgb(231, 230, 230);
+}
+header{
+
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+#boton:hover{
+    background-color: lightgreen;
+    color: white;
+}
+h2{
+    font-size: 15px;
+    text-align: center;
+}
